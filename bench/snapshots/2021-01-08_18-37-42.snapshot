@@ -1,0 +1,5 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+EnumBench	Enum.map		50	3049588
+EnumBench	recursive		50	3144053
+EnumBench	tail recursive		50	2715927
